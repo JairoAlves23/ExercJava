@@ -1,0 +1,11 @@
+package softblue.inneranonymos;
+
+public class Cha implements Bebida {
+
+	@Override
+	public void preparar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

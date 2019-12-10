@@ -1,0 +1,9 @@
+package softblue.inneranonymos;
+
+public class Main {
+
+	Bebida b1 = new Cha();
+	b1.
+	
+	
+}
